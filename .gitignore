@@ -1,0 +1,9 @@
+# Ignore the compiled executable
+main
+
+# Ignore debugging information folder (macOS)
+main.dSYM/
+
+# Ignore macOS-specific property list file
+info.plist
+
